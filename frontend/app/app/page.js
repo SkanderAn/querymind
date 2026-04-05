@@ -6,7 +6,7 @@ import {
   PieChart, Pie, Cell
 } from "recharts";
 
-const API = "http://localhost:8000";
+const API = "https://querymind-production-a6b9.up.railway.app";
 const COLORS = ["#10b981", "#6366f1", "#f59e0b", "#ef4444", "#3b82f6", "#ec4899"];
 
 const SUGGESTIONS = [
